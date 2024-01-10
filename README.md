@@ -10,7 +10,7 @@ This repository contains the backend code for the OSU Finals Schedule Viewer, a 
 
 ## Setup and Running Locally
 To set up and run the backend locally:
-1. Clone the repository: `git clone https://github.com/yourusername/OSUFinals.git`
+1. Clone the repository: `git clone https://github.com/ayub-32/OSUFinals.git`
 2. Navigate to the project directory: `cd OSUFinals`
 3. Build the project: `./mvnw package`
 4. Run the application: `java -jar target/osufinals-0.0.1-SNAPSHOT.jar`
